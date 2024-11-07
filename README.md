@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="assets/header.png"/>
-</p>
+<h3 align="center">Explore Repositories</h3>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=cpp&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=java&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=python&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=javascript&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=php&theme=transparent">
+</div>
+
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Samarjit+Sahoo;Software+Engineer" width="auto" height="35"/>
 </p>
