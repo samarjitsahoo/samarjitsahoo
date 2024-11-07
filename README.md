@@ -8,7 +8,7 @@
 <a href="https://github.com/samarjitsahoo/php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=php&theme=transparent"></a>
 </div>
 <br>
-<h3 align="center">Github statistics:</h3>
+<h3 align="center">My Github statistics:</h3>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="180em" alt="Stats"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
@@ -27,7 +27,7 @@
 <p align="center">Currently learning - Machine Learning</p>
 <p align="center">Currently working on - Private Projects</p>
 <br>
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
