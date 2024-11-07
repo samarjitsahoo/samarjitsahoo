@@ -1,11 +1,11 @@
 <h3 align="center">Explore my repositories</h3>
 <div align="center">
-<a href="https://github.com/samarjitsahoo/c" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/cpp" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=cpp&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/java" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=java&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/python" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=python&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/javascript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=javascript&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/php" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=php&theme=transparent"></a>
+<a href="https://github.com/samarjitsahoo/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=transparent"></a>
+<a href="https://github.com/samarjitsahoo/cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=cpp&theme=transparent"></a>
+<a href="https://github.com/samarjitsahoo/java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=java&theme=transparent"></a>
+<a href="https://github.com/samarjitsahoo/python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=python&theme=transparent"></a>
+<a href="https://github.com/samarjitsahoo/javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=javascript&theme=transparent"></a>
+<a href="https://github.com/samarjitsahoo/php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=php&theme=transparent"></a>
 </div>
 <br>
 <h3 align="center">My interests</h3>
