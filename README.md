@@ -1,4 +1,4 @@
-<h3 align="center">📕 Explore my repositories:</h3>
+<h3 align="center">📕 My repositories:</h3>
 <div align="center">
 <a href="https://github.com/samarjitsahoo/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=transparent"></a>
 <a href="https://github.com/samarjitsahoo/cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=cpp&theme=transparent"></a>
