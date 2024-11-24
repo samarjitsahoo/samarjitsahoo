@@ -1,4 +1,4 @@
-<h3 align="center">Explore my repositories:</h3>
+<h3 align="center">📕 Explore my repositories:</h3>
 <div align="center">
 <a href="https://github.com/samarjitsahoo/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=transparent"></a>
 <a href="https://github.com/samarjitsahoo/cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=cpp&theme=transparent"></a>
@@ -8,7 +8,7 @@
 <a href="https://github.com/samarjitsahoo/php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=php&theme=transparent"></a>
 </div>
 <br>
-<h3 align="center">My Github statistics:</h3>
+<h3 align="center">📊 My Github stats:</h3>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="180em" alt="Stats"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
@@ -20,14 +20,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>
 <br>
-<h3 align="center">My interests:</h3>
+<h3 align="center">✨ My interests:</h3>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
 </p>
 <p align="center">Currently learning -> Machine Learning</p>
 <p align="center">Currently working on -> Private Projects</p>
 <br>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
