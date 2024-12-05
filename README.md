@@ -4,9 +4,11 @@
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">I am an enthusiastic coder driven by an unyielding passion for programming. My journey in the world of technology is fueled by a deep curiosity and a commitment to mastering new technologies. I thrive on solving complex problems and continuously seek out challenges that push the boundaries of my knowledge and skills.</p>
-<p align="justify">My dedication to programming is not just about writing code; it's about understanding the intricate details that make technology work. Whether it's exploring new languages, diving into innovative projects, or tackling difficult bugs, I am always eager to learn and grow in the ever-evolving landscape of software development.</p>
 <br>
 <h2 align="center">💻 Tech stack:</h2>
+| Python  | Numpy  | Pandas  | Matplotlib | Scikit-learn |
+|---------|--------|---------|------------|--------------|
+| <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="65"/> | <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65"/> |
 <h2 align="center">📕 My repositories:</h2>
 <div align="center">
 <a href="https://github.com/samarjitsahoo/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=radical"></a>
