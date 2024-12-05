@@ -1,23 +1,23 @@
 <h3 align="center">📕 My repositories:</h3>
 <div align="center">
-<a href="https://github.com/samarjitsahoo/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=cpp&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=java&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=python&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=javascript&theme=transparent"></a>
-<a href="https://github.com/samarjitsahoo/php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=php&theme=transparent"></a>
+<a href="https://github.com/samarjitsahoo/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=radical"></a>
+<a href="https://github.com/samarjitsahoo/cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=cpp&theme=radical"></a>
+<a href="https://github.com/samarjitsahoo/java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=java&theme=radical"></a>
+<a href="https://github.com/samarjitsahoo/python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=python&theme=radical"></a>
+<a href="https://github.com/samarjitsahoo/javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=javascript&theme=radical"></a>
+<a href="https://github.com/samarjitsahoo/php"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=php&theme=radical"></a>
 </div>
 <br>
 <h3 align="center">📊 My Github stats:</h3>
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="180em" alt="Stats"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=radical" height="180em" alt="Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&row=2&column=3&theme=radical"/>
 </div>
 <br>
 <h3 align="center">✨ My interests:</h3>
