@@ -17,7 +17,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&row=2&column=3&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=2&column=3&theme=radical"/>
 </div>
 <br>
 <h3 align="center">✨ My interests:</h3>
