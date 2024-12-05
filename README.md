@@ -1,3 +1,7 @@
+<h1 align="center">Samarjit Sahoo</h1>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
+</p>
 <h2 align="center">📕 My repositories:</h2>
 <div align="center">
 <a href="https://github.com/samarjitsahoo/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=radical"></a>
@@ -9,15 +13,15 @@
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=2&column=3&theme=radical&margin-w=2&margin-h=2"/>
+</div>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=radical" height="180em" alt="Stats"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
-</div>
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=2&column=3&theme=radical"/>
 </div>
 <br>
 <h2 align="center">✨ My interests:</h2>
