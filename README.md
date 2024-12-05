@@ -3,9 +3,32 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
-<p align="justify">I am an enthusiastic coder driven by an unyielding passion for programming. My journey in the world of technology is fueled by a deep curiosity and a commitment to mastering new technologies. I thrive on solving complex problems and continuously seek out challenges that push the boundaries of my knowledge and skills.</p>
+<p align="justify">I am an enthusiastic coder driven by an unyielding passion for programming. My journey in the world of technology is fueled by a deep curiosity and a commitment to mastering new technologies. I thrive on solving complex problems and continuously seek out challenges that push the boundaries of my knowledge and skills. My interests includes:</p>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
+</p>
+<p align="center">Currently learning -> Machine Learning</p>
+<p align="center">Currently working on -> Private Projects</p>
 <br>
-<h2 align="center">💻 Tech stack:</h2>
+<h2 align="center">💻 My tech stack:</h2>
+<table align="center">
+<tr>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="65" height="65"/><br><b>C (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="65" height="65"/><br><b>C++ (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" width="65" height="65"/><br><b>Java (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="65" height="65"/><br><b>Python (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65" height="65"/><br><b>HTML (Markup)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65" height="65"/><br><b>CSS (Styling)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="65" height="65"/><br><b>JavaScript (Language)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65"/><br><b>Tailwind (Framework)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS" width="65" height="65"/><br><b>SCSS (Library)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="65" height="65"/><br><b>React (Library)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="65" height="65"/><br><b>NodeJS (Runtime)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="65" height="65"/><br><b>Flask (Framework)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="65" height="65"/><br><b>MySQL (Database)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB (Database)</b></td>
+</tr>
+</table>
 <br>
 <h2 align="center">📕 My repositories:</h2>
 <div align="center">
@@ -28,13 +51,6 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
-<br>
-<h2 align="center">✨ My interests:</h2>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
-</p>
-<p align="center">Currently learning -> Machine Learning</p>
-<p align="center">Currently working on -> Private Projects</p>
 <br>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
