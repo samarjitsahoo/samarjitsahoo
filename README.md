@@ -22,15 +22,15 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="65" height="65"/><br><b>JavaScript (Language)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65"/><br><b>Tailwind (Framework)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS" width="65" height="65"/><br><b>SCSS (Library)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="65" height="65"/><br><b>React (Library)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="65" height="65"/><br><b>NodeJS (Runtime)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="65" height="65"/><br><b>React JS (Library)</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="65" height="65"/><br><b>Node JS (Runtime)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="65" height="65"/><br><b>Flask (Framework)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="65" height="65"/><br><b>MySQL (Database)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB (Database)</b></td>
 </tr>
 </table>
 <br>
-<h2 align="center">📕 My repositories:</h2>
+<h2 align="center">📕 Featured repositories:</h2>
 <div align="center">
 <a href="https://github.com/samarjitsahoo/c"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=c&theme=radical"></a>
 <a href="https://github.com/samarjitsahoo/cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=cpp&theme=radical"></a>
