@@ -51,6 +51,9 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
 <br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote of the Day"/>
+</p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
   <a href="mailto:samarjit9203@gmail.com" target="_blank">
