@@ -24,8 +24,6 @@
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="SCSS" width="65" height="65"/><br><b>SCSS (Library)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="65" height="65"/><br><b>React JS (Library)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS" width="65" height="65"/><br><b>Node JS (Runtime)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="65" height="65"/><br><b>Flask (Framework)</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySQL" width="65" height="65"/><br><b>MySQL (Database)</b></td>
    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="65" height="65"/><br><b>MongoDB (Database)</b></td>
 </tr>
 </table>
@@ -50,6 +48,7 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samarjitsahoo&theme=radical&hide_border=true&hide_current_streak=true" alt="GitHub Streak" /></a>
 </div>
 <br>
 <h2 align="center">🔗 Connect with me:</h2>
