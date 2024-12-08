@@ -47,7 +47,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samarjitsahoo&theme=radical&hide_border=true&card_width=306&card_height=180&hide_current_streak=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samarjitsahoo&theme=radical&hide_border=true&card_width=300&card_height=180&hide_current_streak=true" alt="GitHub Streak" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=radical&utcOffset=5.30" height="180em" alt="Time Graph"/>
 </div>
 <br>
