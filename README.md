@@ -40,11 +40,11 @@
 <br>
 <h2 align="center">📊 My Github stats:</h2>
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=2&column=3&theme=radical&margin-w=2&margin-h=2"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=2&column=3&theme=radical&margin-w=2&margin-h=2&no-frame=true"/>
 </div>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=radical" height="180em" alt="Stats"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=radical&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samarjitsahoo&theme=radical&hide_border=true&card_width=300&card_height=180&hide_current_streak=true" alt="GitHub Streak" />
