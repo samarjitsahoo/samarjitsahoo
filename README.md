@@ -1,11 +1,14 @@
 <h1 align="center">Samarjit Sahoo</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
+</p>
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif"/>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">I am an enthusiastic programmer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests includes:</p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=fe428e&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
 </p>
 <p align="center">Currently learning -> Machine Learning</p>
 <p align="center">Currently working on -> Private Projects</p>
