@@ -59,15 +59,15 @@
 </p>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
-  <a href="mailto:samarjit9203@gmail.com" target="_blank">
+  <a href="mailto:samarjit9203@gmail.com">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit.vercel.app" target="_blank">
+  <a href="https://samarjit.vercel.app">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjitsahoo/" target="_blank">
+  <a href="https://linkedin.com/in/samarjitsahoo/">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
 </p>
