@@ -41,7 +41,7 @@
 <a href="https://github.com/samarjitsahoo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=portfolio&theme=transparent" alt="PHP"></a>
 </div>
 <br>
-<h2 align="center">📕 Other repositories:</h2>
+<h2 align="center">📕 Practitioner repositories:</h2>
 <div align="center">
 <a href="https://github.com/samarjitsahoo/dsa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=dsa&theme=transparent" alt="DSA"></a>
 <a href="https://github.com/samarjitsahoo/dev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarjitsahoo&repo=dev&theme=transparent" alt="DEV"></a>
