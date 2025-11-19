@@ -1,10 +1,3 @@
-<table align="center" style="max-width: 900px; width: 100%;">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1763548850/samar-banner_nrcru0.png" height="180" alt="Banner"/>
-    </td>
-  </tr>
-</table>
 <div align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
 </div>
