@@ -5,7 +5,9 @@
 <div align="center">
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjitsahoo&theme=transparent">
+
+<img  height="160em"  src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true&hide_current_streak=true" alt="GitHub Streak" />
+
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=8">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent">
