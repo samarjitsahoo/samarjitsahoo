@@ -29,11 +29,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 20px;">
-      <img 
-        alt="GitHub Streak" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=samarjitsahoo&hide_border=true&theme=transparent"
-        height="180"
-      />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true" height="180" alt="GitHub Streak" /></a> 
     </td>
   </tr>
   <tr>
