@@ -5,7 +5,7 @@
 <table align="center" style="max-width: 900px; width: 100%;">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&row=1&column=3" alt="Trophies"/>
+      <img src="https://github-profile-trophy-blush.vercel.app/?username=samarjitsahoo&no-bg=true&no-frame=true&row=1&column=3" alt="Trophies"/>
     </td>
     <td align="center" style="padding: 20px;">
       <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1763550188/coding_tnp4i3.gif" width="300" height="auto" alt="Coding GIF"/>
