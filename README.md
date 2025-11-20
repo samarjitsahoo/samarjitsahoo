@@ -3,15 +3,15 @@
 </div>
 <h2 align="center">Statistics</h2>
 <div align="center">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent">
-<img height="160em" src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="160em" alt="Stats">
+   <img src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true" height="160em" alt="Streak">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent" height="160em" alt="Languages">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="160em" alt="Productivity">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" height="160em" alt="Profile">
 </div>
 <br>
 <h2 align="center">Tech Stack</h2>
-<table align="center" style="width: 100%; max-width: 850px; border-collapse: separate; border-spacing: 14px;">
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" alt="Java"/>
