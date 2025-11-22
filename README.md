@@ -4,27 +4,16 @@
 <h2 align="center">Statistics</h2>
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="160em" alt="Stats">
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true" height="160em" alt="Streak">
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent" height="160em" alt="Languages">
-    </td>
-    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="160em" alt="Productivity">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" height="160em" alt="Profile">
     </td>
   </tr>
 </table>
+
 
 <br>
 <h2 align="center">Tech Stack</h2>
