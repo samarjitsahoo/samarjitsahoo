@@ -2,13 +2,30 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
 </div>
 <h2 align="center">Statistics</h2>
-<div align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="160em" alt="Stats">
-   <img src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true" height="160em" alt="Streak">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent" height="160em" alt="Languages">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="160em" alt="Productivity">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" height="160em" alt="Profile">
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="160em" alt="Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true" height="160em" alt="Streak">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent" height="160em" alt="Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="160em" alt="Productivity">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" height="160em" alt="Profile">
+    </td>
+  </tr>
+</table>
+
 <br>
 <h2 align="center">Tech Stack</h2>
 <table align="center">
