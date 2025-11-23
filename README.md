@@ -18,8 +18,7 @@
       <p>
         <span style="color:#0984e3;">&#8250;</span> <b>Degree:</b> Bachelor of Technology<br>
         <span style="color:#0984e3;">&#8250;</span> <b>Email:</b> mail@samarjitsahoo.me<br>
-        <span style="color:#0984e3;">&#8250;</span> <b>Website:</b> https://samarjitsahoo.me<br>
-        <span style="color:#0984e3;">&#8250;</span> <b>Address:</b> Bengaluru, Karnataka, India
+        <span style="color:#0984e3;">&#8250;</span> <b>Website:</b> https://samarjitsahoo.me
       </p>
     </td>
     <td align="center" width="400">
