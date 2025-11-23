@@ -23,7 +23,7 @@
       </p>
     </td>
     <td align="center" width="400">
-      <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1763550188/coding_tnp4i3.gif" width="400" style="border-radius:10px;" alt="Profile Image"/>
+      <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1763550188/coding_tnp4i3.gif" width="300" style="border-radius:10px;" alt="Profile Image"/>
     </td>
   </tr>
 </table>
