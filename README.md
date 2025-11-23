@@ -1,8 +1,6 @@
 <h2 align="center">About</h2>
 <p align="justify" width="900">
-  I am an enthusiastic coder driven by an unyielding passion for programming. My dedication to programming is not just about writing code; it's about understanding the intricate details that make technology work.
-  Whether it's exploring new languages, diving into innovative projects, or tackling difficult bugs, I am always eager to learn and grow
-  in the ever-evolving landscape of software development.
+  My dedication to programming is not just about writing code; it's about understanding the intricate details that make technology work. Whether it's exploring new languages, diving into innovative projects, or tackling difficult bugs, I am always eager to learn and grow in the ever-evolving landscape of software development.
 </p>
 <br>
 <table align="center">
