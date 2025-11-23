@@ -1,5 +1,5 @@
 <h2 align="center">About</h2>
-<p align="justify">
+<p align="justify" width="900">
   I am an enthusiastic coder driven by an unyielding passion for programming. My dedication to programming is not just about writing code; it's about understanding the intricate details that make technology work.
   Whether it's exploring new languages, diving into innovative projects, or tackling difficult bugs, I am always eager to learn and grow
   in the ever-evolving landscape of software development.
@@ -7,9 +7,9 @@
 <br>
 <table align="center">
   <tr>
-    <td align="left" width="600">
+    <td align="left" width="700">
       <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
+         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
 </div>
       <p>
         Being a Software Engineer means turning abstract ideas into tangible, working solutions.
@@ -22,12 +22,11 @@
         <span style="color:#0984e3;">&#8250;</span> <b>Address:</b> Bengaluru, Karnataka, India
       </p>
     </td>
-    <td align="center" width="300">
-      <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1763550188/coding_tnp4i3.gif" width="260" style="border-radius:10px;" alt="Profile Image"/>
+    <td align="center" width="400">
+      <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1763550188/coding_tnp4i3.gif" width="400" style="border-radius:10px;" alt="Profile Image"/>
     </td>
   </tr>
 </table>
-<br>
 <br>
 <h2 align="center">Statistics</h2>
 <table align="center">
@@ -41,8 +40,6 @@
     </td>
   </tr>
 </table>
-
-
 <br>
 <h2 align="center">Tech Stack</h2>
 <table align="center">
