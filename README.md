@@ -9,9 +9,9 @@
   <tr>
     <td align="left" width="700">
       <div align="center">
-         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
+         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
 </div>
-      <p>
+      <p align="justify">
         Being a Software Engineer means turning abstract ideas into tangible, working solutions.
         I find immense satisfaction in crafting the bridge between creativity and technology.
       </p>
