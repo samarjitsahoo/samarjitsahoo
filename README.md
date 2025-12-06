@@ -7,7 +7,7 @@
   <tr>
     <td align="left" width="700">
       <div align="center">
-         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast" width="auto" height="35"/>
+         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast;Guided+Vibe+Coder" width="auto" height="35"/>
 </div>
       <p align="justify">
         Being a Software Engineer means turning abstract ideas into tangible, working solutions.
