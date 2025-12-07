@@ -31,7 +31,7 @@
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="160em" alt="Stats" />
       <img src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true" height="160em" alt="Streak" />
-      <!-- <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=1&column=3&no-bg=true&no-frame=true" alt="Trophy" /> -->
+      <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=1&column=3&no-bg=true&no-frame=true" alt="Trophy" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent" height="160em" alt="Languages" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="160em" alt="Productivity" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" height="160em" alt="Profile" />
