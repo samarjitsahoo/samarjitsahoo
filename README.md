@@ -7,7 +7,7 @@
   <tr>
     <td align="left" width="700">
       <div align="center">
-         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Java+Full+Stack+Developer;AI/ML+Enthusiast;Guided+Vibe+Coder" width="auto" height="35"/>
+         <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%230969DA&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer" width="auto" height="35"/>
 </div>
       <p align="justify">
         Being a Software Engineer means turning abstract ideas into tangible, working solutions.
@@ -31,7 +31,6 @@
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjitsahoo&theme=transparent" height="160em" alt="Stats" />
       <img src="https://github-readme-streak-stats-three-rust.vercel.app?user=samarjitsahoo&theme=transparent&hide_border=true" height="160em" alt="Streak" />
-      <!-- <img src="https://github-profile-trophy.vercel.app/?username=samarjitsahoo&row=1&column=3&no-bg=true&no-frame=true" alt="Trophy" /> -->
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjitsahoo&theme=transparent" height="160em" alt="Languages" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjitsahoo&theme=transparent&utcOffset=5.30" height="160em" alt="Productivity" />
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjitsahoo&theme=transparent" height="160em" alt="Profile" />
@@ -83,10 +82,6 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" alt="HTML5"/>
       <div>HTML5</div>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" alt="Python"/>
-      <div>Python</div>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="70" alt="Maven"/>
